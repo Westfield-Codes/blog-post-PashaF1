@@ -19,5 +19,8 @@ html {
 
 #blogtitle, #blogcomments {
   padding-top:1em;
-  color:firebrick;
+  color:rgb(112, 112, 212);
+}
+body,section{
+  background-color:lightgray;
 }
