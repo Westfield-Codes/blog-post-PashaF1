@@ -28,3 +28,7 @@ body,section{
 td,th{
   border:1px solid black;
 }
+
+.reply{
+  padding-left:50px;
+}
